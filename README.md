@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F39AB9&height=120&section=header&desc=I%20AM%20DAMI%20👩🏻‍💻%20&descAlignY=53&descAlign=89&animation=fadeIn)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Used at least once </p>
 
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/></a>&nbsp
-</p>
+</p> -->
 
 <br>
 <h3 align="center">💫 Me 💨 </h3>
