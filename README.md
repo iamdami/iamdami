@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F39AB9&height=120&section=header&desc=I%20AM%20DAMI%20👩🏻‍💻%20&descAlignY=53&descAlign=89&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F39AB9&height=120&section=header&descAlignY=53&descAlign=89&animation=fadeIn)
 
 <!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -29,7 +29,7 @@
 </p> -->
 
 <br>
-<h3 align="center">💫 Me 💨 </h3>
+<h3 align="center"> Me 💭 </h3>
 <p align="center">
   <a href="https://damio.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Storyblok&logoColor=white&link=https://damio.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/natura1flavor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/natura1flavor/"/></a>&nbsp
