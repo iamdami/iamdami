@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F39AB9&height=120&section=header&descAlignY=53&descAlign=89&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F39AB9&height=130&section=header)
 
 <!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -28,11 +28,18 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/></a>&nbsp
 </p> -->
 
-<br>
-<h3 align="center"> Me 💭 </h3>
-<p align="center">
-  <a href="https://damio.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Storyblok&logoColor=white&link=https://damio.tistory.com"/></a>&nbsp
-  <a href="https://www.instagram.com/natura1flavor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/natura1flavor/"/></a>&nbsp
-  <a href="mailto:ods04193@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ods04193@gmail.com"/></a>
-</p>
+<!--  <h3 align="left">  </h3> -->
+<pre>
+   🌷🌸🌷🌸
+  🌸🌷🌸🌷🌸                          This is me 🦢
+ Λ🌷🌸🌷🌸🌷
+( ˘ ᵕ ˘🌷🌸🌷           <a href="https://damio.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Storyblok&logoColor=white&link=https://damio.tistory.com"/></a>     <a href="https://www.instagram.com/natura1flavor/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/natura1flavor/"/></a>     <a href="mailto:ods04193@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ods04193@gmail.com"/></a>
+ ヽ つ＼　 ／
+  U U / 🎀 \
+ </pre>
+ <br>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdami&layout=compact)](https://github.com/iamdami/github-readme-stats)
+
+
 <br>
