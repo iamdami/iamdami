@@ -9,5 +9,5 @@
 - Image Segmentation  
 
 ### Contact
-<a href="mailto:ods04193@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ods04193@gmail.com"/></a>
+<a href="mailto:onemoredami@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ods04193@gmail.com"/></a>
 <br>
