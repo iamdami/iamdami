@@ -5,7 +5,7 @@ Currently work at OneMoreSecurity as an AI Researcher
 <br>
 
 ### Research Interest
-- Abstract Pedestrian Attribute Recognition(PAR)  
+- Pedestrian Attribute Recognition(PAR)  
 - Abnormal Human Behavior Detection  
 - License Plate Recognition(LPR)
 
