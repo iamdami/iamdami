@@ -3,7 +3,6 @@ I like to do creative things!
 <br>
 
 ### Research Interest
-- Pedestrian Attribute Recognition(PAR)  
 - Abnormal Human Behavior Detection  
 - License Plate Recognition(LPR)
 
