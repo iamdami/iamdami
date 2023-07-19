@@ -8,4 +8,5 @@ Now I wanna be an amazing Flutter developer! ✨
 <br>
 
 ### Contact
-<a href="mailto:daming.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daming.py@gmail.com"/> <img src="https://img.shields.io/badge/Tistory-e15336?style=flat-square&logo=Tistory&logoColor=white&link=damio.tistory.com"/></a>
+<a href="mailto:daming.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flatsquare&logo=Gmail&logoColor=white&link=daming.py@gmail.com"/></a>
+<a href="https://damio.tistory.com"><img src="https://img.shields.io/badge/Tistory-e15336?style=flat-square&logo=Tistory&logoColor=white"/></a>
