@@ -1,10 +1,6 @@
-### 💻 Hi I'm Dami 🖱
-Until 2022, I was an AI researcher working on the things listed below, 
-- Abnormal Human Behavior Detection  
-- License Plate Recognition(LPR)
-
-But lately I'm totally into **Flutter**.  
-Now I wanna be an amazing Flutter developer! ✨  
+### Hi I'm Dami 👩🏻‍💻
+Until 2022, I was an AI researcher.  
+Lately I'm totally into **Flutter**.  
 <br>
 
 ### Contact
