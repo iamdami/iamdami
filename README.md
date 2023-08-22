@@ -1,8 +1,10 @@
 ### Hi I'm Dami 👩🏻‍💻
-Until 2022, I was an AI researcher.  
-Lately I'm totally into **Flutter**.  
+A Flutter developer.  
+Also very interested in AI research in the Vision field.
 <br>
 
 ### Contact
+<a href="https://damzzi.notion.site/Flutter-1bff9afab52b46ba88214c625ba86f47?pvs=4"><img src="https://img.shields.io/badge/Curriculum_Vitae-blue?style=flat-square"/></a>ㅤ
+<a href="https://damio.tistory.com"><img src="https://img.shields.io/badge/Tech_Blog-e15336?style=flat-square&logo=Tistory&logoColor=white"/></a>ㅤ
 <a href="mailto:daming.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flatsquare&logo=Gmail&logoColor=white&link=daming.py@gmail.com"/></a>
-<a href="https://damio.tistory.com"><img src="https://img.shields.io/badge/Tistory-e15336?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
