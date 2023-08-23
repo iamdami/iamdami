@@ -1,7 +1,9 @@
-### Hi I'm Dami 👩🏻‍💻
+### Hi I'm Dami 🍒
 A Flutter developer.  
 Also very interested in AI research in the Vision field.
 <br>
+
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdami&langs_count=6&layout=compact&theme=dark)](https://github.com/iamdami/iamdami)
 
 ### Contact
 <a href="https://damzzi.notion.site/Flutter-1bff9afab52b46ba88214c625ba86f47?pvs=4"><img src="https://img.shields.io/badge/Curriculum_Vitae-blue?style=flat-square"/></a>ㅤ
