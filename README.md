@@ -4,7 +4,7 @@
 Also very interested in AI research in the Vision field.
 <br>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdami&langs_count=6&layout=compact&theme=dark)](https://github.com/iamdami/iamdami)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdami&langs_count=4&layout=compact&theme=dark)](https://github.com/iamdami/iamdami)
 
 ### Contact
 <a href="https://sites.google.com/view/iamdami-fluttercv/%ED%99%88"><img src="https://img.shields.io/badge/Curriculum_Vitae-blue?style=flat-square"/></a>ㅤ
